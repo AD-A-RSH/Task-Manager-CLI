@@ -1,0 +1,19 @@
+{
+    "todo_list": [
+        {
+            "TASK": "Python",
+            "STATE": false,
+            "NOTE": "Language"
+        },
+        {
+            "TASK": "Python Frameworks",
+            "STATE": false,
+            "NOTE": "Flask & Django"
+        },
+        {
+            "TASK": "React Js",
+            "STATE": false,
+            "NOTE": "None"
+        }
+    ]
+}
